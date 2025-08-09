@@ -1,4 +1,4 @@
 title: Herb's Blog
-baseurl: ""
+baseurl: "https://herbsilverman.github.io/bearblog/"
 markdown: kramdown
 theme: minima
